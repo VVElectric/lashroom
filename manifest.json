@@ -1,1 +1,17 @@
-{"name":"Lashroom Tools","short_name":"Lashroom Tools","start_url":"./","scope":"./","display":"standalone","background_color":"#faf7ef","theme_color":"#c4d5ac","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{
+  "name": "Lashroom Tools",
+  "short_name": "Lashroom Tools",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7ef",
+  "theme_color": "#c4d5ac",
+  "icons": [
+    {
+      "src": "lashroom-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
